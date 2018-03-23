@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt|Tangerine');
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:"Rock+Salt|Tangerine",cursive;
+	background-image:url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb);
+	overflow-x: hidden;
+	text-align:center;
+}
+
+
+h1{
+	padding-bottom: 10px;
+}
+
+ul{
+	background-color:#e4c1be;
+	width:100%;
+	height:60px;
+}
+
+ul li{
+	float:left;
+	padding-left:60px;
+	list-style-type:none;
+	line-height: 60px;
+}
+
+ul li a {
+	text-decoration:none;
+	color:black;
+}
+
+ul li a:hover{
+	color:white;
+	font-weight:bold;
+}
+
+
+
+h3{
+	color:#581905;
+	font-style:italic;
+}
+
+#cherryblossom{
+	width:50%;
+	height:30vh;
+	border:none;
+	align:center;
+}
+
+div{
+	background-color:#cc737f;
+	width:100%;
+	height:400px;
+	text-align:center;
+	margib:0 auto;
+}
+
+div img {
+	width:100px;
+}
+
+.colorred {
+	color:black;
+	
+
+}
